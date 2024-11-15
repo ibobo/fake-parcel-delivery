@@ -1,0 +1,8 @@
+name = "fake-parcel-delivery"
+pages_build_output_dir = ".vercel/output/static"
+compatibility_date = "2023-12-20"
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+PNPM_VERSION = "9.13.1"
+NODE_VERSION = "22.6.0"
