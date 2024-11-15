@@ -5,7 +5,7 @@ export const runtime = "edge";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 p-4">
+    <main className="min-h-svh bg-gradient-to-b from-gray-50 to-gray-100 p-4">
       <div className="max-w-md mx-auto">
         <header className="flex items-center justify-between mb-6">
           <h1 className="text-2xl font-bold text-gray-900">Consegne</h1>

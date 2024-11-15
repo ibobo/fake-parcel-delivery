@@ -20,7 +20,7 @@ export default async function SignaturePage({
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 flex flex-col">
+    <div className="min-h-svh bg-gray-50 flex flex-col">
       <header className="bg-white shadow-sm p-4">
         <div className="max-w-md mx-auto flex items-center">
           <Link href="/" className="text-gray-600 hover:text-gray-900">

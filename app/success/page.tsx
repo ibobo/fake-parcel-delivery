@@ -49,7 +49,7 @@ export default function SuccessPage() {
   }, []);
 
   return (
-    <div className="h-screen bg-gradient-to-br from-blue-500 to-purple-600 flex flex-col items-center justify-center">
+    <div className="h-svh bg-gradient-to-br from-blue-500 to-purple-600 flex flex-col items-center justify-center">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
         ref={signatureRef}
