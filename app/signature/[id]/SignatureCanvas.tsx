@@ -75,7 +75,7 @@ export default function SignatureCanvas() {
   };
 
   return (
-    <div className="max-w-md mx-auto w-full flex-1 flex flex-col">
+    <>
       <div className="flex-1 bg-white rounded-lg shadow-sm mb-4 relative">
         <canvas
           ref={canvasRef}
@@ -95,6 +95,6 @@ export default function SignatureCanvas() {
       >
         Firma
       </button>
-    </div>
+    </>
   );
 }
