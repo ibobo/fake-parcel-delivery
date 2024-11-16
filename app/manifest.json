@@ -1,0 +1,9 @@
+{
+  "short_name": "Ermes",
+  "name": "Ermes Consegne",
+  "description": "Applicazione per consegne del corriere Ermes",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#e5e5e5"
+}
